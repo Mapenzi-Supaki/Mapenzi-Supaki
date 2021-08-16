@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Yes, Purity is my name, but I prefer to be addressed by my second or last name -- "Mapenzi Supaki"
+**My name is Purity but I prefer to be addressed by my second or last name -- *Mapenzi Supaki*. I'm a business development specialist, data professional and freelance enterprise consultant.**
 
 <img src="https://user-images.githubusercontent.com/60968870/129565348-88b11fbe-fadb-44bf-bac4-5201363bd400.jpg" width="100%" height="30%">
 
