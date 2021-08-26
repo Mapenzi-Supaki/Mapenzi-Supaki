@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the #66DaysOfData challenge by Ken Jee to develop better data habits and polish my data science & machine learning skills.
 - 🌱 I’m currently relearning python programming, August 2021.
-- 👯 I’m looking to collaborate on real-world projects in Technology & Software, Consulting, Retail, Education and many more domains. 
+- 👯 I’m looking to collaborate on real-world projects in Technology & Software, Consulting/Advisory, Retail, Education and many more domains. 
 - 🤔 I’m looking for help with sector-specific data analytics and opportunities based on the above.
 - 💬 Ask me about my career switch from business development to data science & analytics.
 - 📫 How to reach me:
