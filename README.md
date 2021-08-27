@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**My name is Purity Mapenzi Supaki from Nairobi, Kenya. I'm a data science & analytics professional, business development specialist and freelance enterprise consultant.**
+**My name is Purity Mapenzi Supaki from Nairobi, Kenya.**
+I'm a data science & analytics professional, business development specialist and freelance enterprise consultant.**
 
 <img src="https://user-images.githubusercontent.com/60968870/129565348-88b11fbe-fadb-44bf-bac4-5201363bd400.jpg" width="100%" height="30%">
 
