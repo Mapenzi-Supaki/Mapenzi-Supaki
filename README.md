@@ -1,4 +1,4 @@
-## Hi there 👋 | I am Purity Mapenzi Supaki!
+## Hi there 👋 | I am Purity Mapenzi Supaki
 
 **Mapenzi is data science & analytics professional, business development specialist and freelance enterprise consultant.**
 
