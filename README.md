@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/60968870/129565348-88b11fbe-fadb-44bf-bac4-5201363bd400.jpg" width="100%" height="30%">
 
 
-- 🔭 I’m currently working on my self-taught data science degree program to develop better data habits and polish my data science & machine learning skills.
+- 🔭 I’m currently designing my [self-taught data science curriculum](https://gist.github.com/Mapenzi-Supaki/6841771bf0dcdd07b69a25678c6637c9), to polish my data skills and become a well-rounded specialist in the field of ML & AI.
 - 🌱 I’m currently relearning [python programming](https://gist.github.com/Mapenzi-Supaki/f1b6fc85434d87691bd1437c39e6f53d)
 - 👩‍💻 I collaborated on [Omdena Nakuru, Kenya Local Chapter Project](https://omdena.com/omdena-chapter-page-kenya/): *Improving Food Security and Crop Yield in Kenya Through Machine Learning*
 
