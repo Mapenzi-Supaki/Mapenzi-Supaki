@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently designing my self-taught data science curriculum, to polish my data skills and become a well-rounded specialist in the field of ML & AI.
-- 🌱 I’m currently [learning]<script src="https://gist.github.com/Mapenzi-Supaki/cb67037623bd14ef651a04314f25f506.js"></script> 
+- 🌱 I’m currently learning <script src="https://gist.github.com/Mapenzi-Supaki/cb67037623bd14ef651a04314f25f506.js"></script> 
 - 👩‍💻 I collaborated on [Omdena Nakuru, Kenya Local Chapter Project](https://omdena.com/omdena-chapter-page-kenya/): *Improving Food Security and Crop Yield in Kenya Through Machine Learning*
 
 - 👯 I’m looking to collaborate on real-world projects in Consulting/Advisory, Fintech and, Retail domains. 
